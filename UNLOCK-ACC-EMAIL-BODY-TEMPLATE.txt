@@ -1,0 +1,16 @@
+Hi {FNAME} {LNAME},
+<br/>
+
+Welcome ,Your Registration is almost completed,
+Please use below details to Unlock your account.<br/>
+<br/>
+
+Temporary Password : {TEPM_PWD}<br/>
+<br/>
+
+<a href="http://localhost:4200/unlockAcc?email={EMAIL}">
+Click Here To Unlock Your Account</a> <br/>
+<br/>
+
+Thanks,<br/>
+Dilshad Shaikh<br/>
